@@ -12,7 +12,7 @@ Mi principal enfoque es el **Desarrollo Web Full Stack**, donde disfruto creando
 - Desarrollo de interfaces interactivas y responsivas con **React**
 - Diseño de experiencias de usuario modernas y funcionales
 - Implementación de SPA (Single Page Applications)
-- Uso de Tailwind CSS para estilizado utilitario y rápido (ver sección Tecnología)
+- Uso de Tailwind CSS para estilizado utilitario y rápido
 
 ### Backend
 - Desarrollo de APIs RESTful con **Node.js**, **Spring Boot**, **Django** y **Flask**
